@@ -262,7 +262,7 @@ button:focus {
     position: absolute;
     right: 0;
     bottom: -10px;
-    color: #f6483b;
+    color: teal;
     font-weight: 500;
 }
 
@@ -291,8 +291,8 @@ button:focus {
     display: inline-block;
     text-align: center;
     text-transform: capitalize;
-    background-color: #f6483b;
-    border: 1px solid #f6483b;
+    background-color: teal;
+    border: 1px solid teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -302,9 +302,9 @@ button:focus {
 
 .prt_btn:hover,
 .prt_btn:focus {
-    color: #f6483b;
+    color: teal;
     background-color: #ffffff;
-    border: 1px solid #f6483b;
+    border: 1px solid teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -568,7 +568,7 @@ button:focus {
 
 .prt_about_learnbox_right:hover:after {
     background-color: #ffffff;
-    border: 3px solid #f6483b;
+    border: 3px solid teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -609,7 +609,7 @@ button:focus {
 
 .prt_about_learnbox_left:hover:after {
     background-color: #ffffff;
-    border: 3px solid #f6483b;
+    border: 3px solid teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -618,7 +618,7 @@ button:focus {
 }
 
 .prt_about_learnbox_right:hover .prt_about_learnbox_year h1 {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -627,7 +627,7 @@ button:focus {
 }
 
 .prt_about_learnbox_left:hover .prt_about_learnbox_year h1 {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -765,7 +765,7 @@ button:focus {
 }
 
 .prt_about_experiencebox:hover .prt_about_experience_year h1 {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1066,7 +1066,7 @@ button:focus {
 }
 
 .prt_contact_details_box p a:hover {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1319,7 +1319,7 @@ button:focus {
 .prt_counter_box p {
     font-size: 18px;
     margin-left: 80px;
-    color: #f6483b;
+    color: teal;
 }
 
 .circles-text {
@@ -1580,7 +1580,7 @@ button:focus {
 }
 
 .prt_footer_wrapper p a {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1589,7 +1589,7 @@ button:focus {
 }
 
 .prt_footer_wrapper p a:hover {
-    color: #f6483b;
+    color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1636,7 +1636,7 @@ button:focus {
 
 .prt_footer_wrapper ul li a:hover {
     color: #ffffff;
-    background-color: #f6483b;
+    background-color: teal;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
