@@ -212,8 +212,6 @@ button:focus {
     -o-transform: translate(-50%, -50%);
 }
 
-#status img {}
-
 
 /*---------- Heading Css Start -------*/
 
@@ -913,8 +911,6 @@ button:focus {
     z-index: 1;
     display: none;
 }
-
-.prt_contact_box {}
 
 .prt_contact_info {
     display: inline-block;
