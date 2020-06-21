@@ -1055,15 +1055,15 @@ Assigned to: ThemeForest
         }
         
         .prt_contact_details_box.details_box1 {
-            background-image: url(http://placehold.it/450X250);
+            background-image: url(../images/mind-physio-logo-450x250.png);
         }
         
         .prt_contact_details_box.details_box2 {
-            background-image: url(http://placehold.it/450X250);
+            background-image: url(../images/mind-physio-logo-450x250.png);
         }
         
         .prt_contact_details_box.details_box3 {
-            background-image: url(http://placehold.it/450X250);
+            background-image: url(../images/mind-physio-logo-450x250.png);
         }
         /*---------- Services css Start -------*/
         
@@ -1252,7 +1252,7 @@ Assigned to: ThemeForest
         .prt_couter_wrapper {
             display: inline-block;
             width: 100%;
-            background-image: url(http://placehold.it/1920X600);
+            background-image: url(../images/background-1920x600.jpg);
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
