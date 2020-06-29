@@ -1803,3 +1803,19 @@ Assigned to: ThemeForest
                 height: 900px;
             }
         }
+        
+        .text-primary {
+            color: teal;
+        }
+        
+        P.drop-cap:first-letter {
+            float: left;
+            font-size: 4.5em;
+            line-height: 1;
+            margin-right: 9px;
+            color: teal;
+        }
+        
+        li {
+            padding: 0.5em 0;
+        }
